@@ -1,5 +1,8 @@
 # Deploy ROS Noetic on AWS EC2: End-to-End Demo
 
+<img width="1920" height="1080" alt="Run ROS Noetic on AWS EC2" src="https://github.com/user-attachments/assets/83197c26-a99b-4645-84a3-303edec3a084" />
+
+
 Step 0: Login to AWS Console: https://console.aws.amazon.com/console/
 
 Step 1: Create EC2 Server with the Userdata Script:
