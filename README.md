@@ -63,6 +63,15 @@ Step 5: Add the sample python script:
 cd /root/catkin_ws/src/my_robot_pkg/python_scripts
 ```
 
+Step 6: Export ROS URI's:
+
+```sh
+export ROS_MASTER_URI=http://MSATER_NODE_IP:11311
+export ROS_HOSTNAME=IP_OF_THE _HOST
+```
+
+Step 7: Run and Test ROS:
+
 ```sh
 roscore
 roslaunch rosbridge_server rosbridge_websocket.launch
