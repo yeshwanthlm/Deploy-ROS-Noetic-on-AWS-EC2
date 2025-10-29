@@ -2,6 +2,11 @@
 
 <img width="1920" height="1080" alt="Run ROS Noetic on AWS EC2" src="https://github.com/user-attachments/assets/83197c26-a99b-4645-84a3-303edec3a084" />
 
+## Prerequisites: 
+1. AWS Account with the permission to create EC2.
+2. Three EC2 Instances.
+3. ROS Should be installed on all the three servers. 
+
 
 Step 0: Login to AWS Console: https://console.aws.amazon.com/console/
 
