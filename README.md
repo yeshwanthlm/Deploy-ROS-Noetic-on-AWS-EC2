@@ -77,6 +77,20 @@ roscore
 roslaunch rosbridge_server rosbridge_websocket.launch
 ```
 
+For bridge network:
+
+Cloud Server:
+```sh
+roslaunch rosbridge_server rosbridge_websocket.launch
+```
+
+Local Machine:
+```sh
+pip install roslibpy
+```
+```sh
+python3 name_of_the_file.py
+```
 
 Connect with me:
 * Follow us on LinkedIn: https://www.linkedin.com/in/yeshwanth-l-m/
