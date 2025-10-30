@@ -77,7 +77,7 @@ roscore
 roslaunch rosbridge_server rosbridge_websocket.launch
 ```
 
-For bridge network:
+## For Bridge Network:
 
 Cloud Server:
 ```sh
